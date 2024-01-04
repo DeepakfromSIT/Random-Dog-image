@@ -1,0 +1,14 @@
+body {
+  color: yellowgreen;
+  text-align: center;
+  margin-top: 10%;
+}
+
+h1 {
+  font-size: 100px;
+}
+
+button {
+  font-size: 30px;
+  color: aqua;
+}
